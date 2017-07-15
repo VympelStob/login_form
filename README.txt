@@ -1,3 +1,12 @@
-Création d'un Login Formulaire en HTML 5 et CSS 3, pas de PHP, ni de Javascript pour le moment. Juste une vitrine pour se connecter à une application d'entreprise. 
-Il n'y a pas non plus de façon de se register car il s'agit d'une application d'entreprise et les habilitations sont à la main de l'admin. 
-Merci
+Vympel Co.
+
+I. General presentation
+I suggest you a login form for a business application. It's a showcase in HTML 5 and CSS3, I'm adding technologies like PHP with the Framwork Symfony and Javascript to animate the page.
+
+II. Contributing 
+
+1. Fork it
+2. Create your feature branch (git checkout -b my-new-feature)
+3 Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
